@@ -1,5 +1,9 @@
 # group_10 term project
 
+## data link
+Because the size of data is too large, we move the data to Google Drive: https://drive.google.com/drive/folders/1l6m_W0JWRYCD2-cpp2oHzNG9msD5dd37
+The aboved link will lead you to our data.
+
 ## env setting
 
 using python 3.10.8
